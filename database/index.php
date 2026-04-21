@@ -8,7 +8,7 @@ if (!isset($_SESSION['user'])) {
     exit;
 }
 
-// Get statistics
+// Get statisticss
 $stats = [];
 
 // Total events
